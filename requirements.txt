@@ -6,3 +6,4 @@ torchcam
 matplotlib
 opencv-python
 albumentations
+opencv-python-headless
