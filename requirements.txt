@@ -6,3 +6,4 @@ torchcam
 matplotlib
 opencv-python
 albumentations
+cv2
